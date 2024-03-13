@@ -1,1 +1,1 @@
-<h1> System Security - Server of system</h1>
+<h1> Server of security system</h1>
