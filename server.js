@@ -94,7 +94,7 @@ app.post('/pessoa_detectada', (req, res) => {
 
 app.post('/tempo-alarmar', (req, res) => {
     const pessoa = req.body;
-    console.log('Dados da camera: ', pessoa);
+    console.log('Dados do aplicativo: ', pessoa);
 });
 
 app.post('/dados-do-esp32', (req, res) => {
